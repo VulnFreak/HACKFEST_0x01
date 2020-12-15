@@ -1,0 +1,3 @@
+Vulnfreak created it's own bot. and last night when I was talking to my bot. It is complaning that no one is using it. so talk to Vulnfreak Bot and get the flag.
+
+hint - ~help 
