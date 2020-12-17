@@ -1,0 +1,1 @@
+Our friend odin has encoded a secret message with a key and hide that secret message over the internet to protect it from hackers. He divided the secret key into two parts. He send the first to part to it's community and rest part is with him. Hunt down the keys to proceed the hack.
