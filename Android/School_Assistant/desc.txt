@@ -1,0 +1,2 @@
+Our school want to help the students to manage their daily schedule therefore we made a school assistant apk but after sometime we get notifed by students that google play store prottect blocking the apk and it also taking extra permission like camera, file storage, microphone but this permission are not intended and we also recieved complain that sometime camera opens on their own.
+So we have the apk which students have and you have to find which organisation is behind this.
