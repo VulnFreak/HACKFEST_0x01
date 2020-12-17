@@ -1,0 +1,5 @@
+I want to buy the book from online store recommended by my friend but I am not able to find the book online so I asked him to send the book detail so he sended me the ISBN number of the book but while printing the details some digits in between get ddestroyed can you help me to get back the complete number.
+
+ISBN received - 9788*****5025
+
+NOTE -> hf0x01{isbn_number}
